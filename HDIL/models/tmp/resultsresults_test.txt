@@ -1,0 +1,1 @@
+Iteration 60, test_acc = 90.24548, test_acc_combined = 90.77035, AUC_con = 0.96928, AUC_com = 0.97079
