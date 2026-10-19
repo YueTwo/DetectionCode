@@ -1,8 +1,8 @@
-# Wukong Intelligence · Detection Service
+# Wukong Intelligence
 
 [中文文档](./README.zh-CN.md) | English
 
-> Let creativity travel farther—and let every image earn trust.
+> ✨ Let creativity travel farther—and let every image earn trust.
 
 **Wukong Intelligence** is an AI imaging practice built around two complementary ideas: **Seventy-Two Transformations**, which helps people create and edit imagery across modalities, and **Fiery Eyes**, which helps people examine whether that imagery can be trusted.
 
@@ -37,23 +37,23 @@ Wukong Intelligence pairs creation with verification: the Seventy-Two Transforma
 
 ### Seventy-Two Transformations · Creation
 
-| Text-guided image / video creation | Text-guided object replacement |
+| Text-guided image / video creation | Text-guided style transfer |
 | :---: | :---: |
-| ![Text-guided image and video creation](./images/web/跨模态生成_视频.jpg) | ![Text-guided object replacement](./images/web/跨模态生成_目标替换.jpg) |
+| ![Text-guided image and video creation](./images/web/跨模态生成_视频.jpg) | ![Text-guided style transfer](./images/web/跨模态生成_风格迁移.jpg) |
 
-| Text-guided style transfer |
+| Text-guided object replacement |
 | :---: |
-| ![Text-guided style transfer](./images/web/跨模态生成_风格迁移.jpg) |
+| ![Text-guided object replacement](./images/web/跨模态生成_目标替换.jpg) |
 
 ### Fiery Eyes · Detection
 
-| PS tampering localization | Multi-face forgery detection |
+| PS tampering localization | Global AIGC image / video detection |
 | :---: | :---: |
-| ![PS tampering localization](./images/web/伪造检测_PS篡改.jpg) | ![Multi-face forgery detection](./images/web/伪造检测_视频_人像伪造.jpg) |
+| ![PS tampering localization](./images/web/伪造检测_PS篡改.jpg) | ![Global AIGC image and video detection](./images/web/伪造检测_视频_全局AIGC.jpg) |
 
-| Global AIGC image / video detection |
+| Multi-face forgery detection |
 | :---: |
-| ![Global AIGC image and video detection](./images/web/伪造检测_视频_全局AIGC.jpg) |
+| ![Multi-face forgery detection](./images/web/伪造检测_视频_人像伪造.jpg) |
 
 ## Repository Layout
 
